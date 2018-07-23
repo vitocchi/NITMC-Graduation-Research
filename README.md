@@ -1,4 +1,4 @@
-# NITMC-Graduation-Research
+# NITMC-Graduation-Research_Experiment
 
 松江工業高等専門学校での卒業研究で,eclipseを用いて開発したjavaアプリケーションです。
 
